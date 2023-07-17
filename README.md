@@ -19,7 +19,9 @@ python window.py
 6. Plotting of Ramachandran plot
 
 # Libraries used :
-1. Numpy
-2. matplotlib
-3. Tkinter
-4. urllib
+```
+Numpy
+matplotlib
+Tkinter
+urllib
+```
