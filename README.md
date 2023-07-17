@@ -5,6 +5,11 @@ Inputs taken: Using GUI either PDB ID or PDB file
 <!-- ![gui](https://github.com/rohitmodee/GUI_to_fetch_pdb_plot_ramachandran/blob/main/rama_gui.png?raw=true) -->
 ![gui](https://github.com/rohitmodee/GUI_to_fetch_pdb_plot_ramachandran/blob/main/gui_res.png?raw=true)
 
+How to run
+```
+python window.py
+```
+
 # Features :
 1. Retriving PDB file from PDB website.
 2. Reading the retrived fasta file.
